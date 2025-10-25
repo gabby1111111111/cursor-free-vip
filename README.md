@@ -101,6 +101,7 @@ yay -S cursor-free-vip-git
 
 ```powershell
 irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/gabby1111111111/cursor-free-vip/main/scripts/install.ps1 | iex
 ```
 
 </details>
